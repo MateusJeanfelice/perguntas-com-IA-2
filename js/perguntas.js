@@ -63,5 +63,5 @@ export const perguntas = [
                 proxima: 4,
             },
         ]
-    },
-   
+    }
+]
